@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'ssh://kareem@104.131.188.136/var/www/html';
+$config['base_url']	= 'http://104.131.188.136';
 
 /*
 |--------------------------------------------------------------------------
