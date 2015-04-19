@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://104.131.188.136';
-$config['server_root'] = $_SERVER['DOCUMENT_ROOT'];
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
